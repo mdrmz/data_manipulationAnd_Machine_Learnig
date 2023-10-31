@@ -1,9 +1,4 @@
-# data_manipulationAnd_Machine_Learnig
-
 data sicne adlı py dosyasını çalıştırınca elde edeceginiz çıktılar bu şekilde olmalı 
-
-
-
 
 C:\Users\MehmetDurmaz\PycharmProjects\dataScine\venv\Scripts\python.exe C:\Users\MehmetDurmaz\PycharmProjects\dataScine\Datascine.py 
             method  number  orbital_period   mass  distance  year
@@ -72,7 +67,7 @@ orbital_period      0
 mass                0
 distance          227
 year                0
-dtype: int64   
+dtype: int64 
 
 
 Process finished with exit code 0
